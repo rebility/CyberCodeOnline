@@ -494,7 +494,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Майнинг криптовалюты",
+ 	 	 	 	"trans": "Начать майнинг криптовалюты",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
